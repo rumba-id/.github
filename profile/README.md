@@ -48,11 +48,6 @@ project is preparing for initial public release.
 Rumba uses the [Functional Source License (FSL)](https://fsl.software/). Each version
 converts to Apache 2.0 or MIT two years after release.
 
-## Links
-
-- [Main Repository](https://github.com/rumba-id/rumba.id)
-- [Himmelblau IDM](https://himmelblau-idm.org/)
-
 ## Contact
 
 - Email: <hello@rumba.id>
