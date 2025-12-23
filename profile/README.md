@@ -43,8 +43,6 @@ compatibility with existing systems.
 Internal development has concluded. The project is now being released publicly at
 [rumba-id/rumba.id](https://github.com/rumba-id/rumba.id).
 
-The OAuth2/OIDC provider, Graph API, and SCIM provisioning are functional.
-
 ## License
 
 Rumba uses the [Functional Source License (FSL)](https://fsl.software/). Each version
