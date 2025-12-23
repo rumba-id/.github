@@ -40,8 +40,10 @@ compatibility with existing systems.
 
 ## Project Status
 
-The OAuth2/OIDC provider and Graph API are functional. SCIM provisioning works. The
-project is preparing for initial public release.
+Internal development has concluded. The project is now being released publicly at
+[rumba-id/rumba.id](https://github.com/rumba-id/rumba.id).
+
+The OAuth2/OIDC provider, Graph API, and SCIM provisioning are functional.
 
 ## License
 
